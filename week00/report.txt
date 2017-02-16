@@ -1,0 +1,1 @@
+Last week, the lab assignment is about learning how to use badak server, register in github.com, and making a respository called os171
