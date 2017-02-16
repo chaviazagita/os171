@@ -1,0 +1,1 @@
+This week I learned how to clone git respository, push and pull git respository, moving and removing file, and edit file .txt on github.com
