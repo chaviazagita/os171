@@ -1,1 +1,11 @@
-this is for log every week
+w01-170214-13-LR-About: HKI
+w01-170214-13-LR-About: Scripting
+w01-170214-13-LR-About: Watching demo from lecturer
+w01-170214-14-LR-About: Scripting
+w01-170214-14-LR-About: Watching demo from lecturer
+w01-170216-13-PS-About: Lab Week 01
+w01-170216-13-PS-About: Lab Week 01
+w01-170216-14-PS-About: Lab Week 01
+w01-170216-14-PS-About: Lab Week 01
+w01-170218-13-PS-About: Lab Week 01
+w01-170216-13-PS-About: Input log Week 01
