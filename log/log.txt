@@ -9,3 +9,36 @@ w01-170216-14-PS-About: Lab Week 01
 w01-170216-14-PS-About: Lab Week 01
 w01-170218-13-PS-About: Lab Week 01
 w01-170216-13-PS-About: Input log Week 01
+
+w02-170221-13-LR-About: Protection and Security
+w02-170221-13-LR-About: Protection and Security
+w02-170221-14-LR-About: Protection and Security
+w02-170221-14-LR-About: Protection and Security
+w02-170223-13-LR-About: Protection and Security
+w02-170223-13-LR-About: Protection and Security
+w02-170223-14-LR-About: Protection and Security
+w02-170223-14-LR-About: Protection and Security
+w02-170223-15-PS-About: Lab Week 02
+w02-170223-15-PS-About: Lab Week 02
+w02-170223-16-PS-About: Lab Week 02
+w02-170223-16-PS-About: Lab Week 02
+w02-170223-17-PS-About: Lab Week 02
+
+w03-170228-13-LR-About: BIOS, Boot, and Upstart
+w03-170228-13-LR-About: BIOS, Boot, and Upstart
+w03-170228-14-LR-About: BIOS, Boot, and Upstart
+w03-170228-14-LR-About: BIOS, Boot, and Upstart
+w03-170302-13-LR-About: BIOS, Boot, and Upstart
+w03-170302-13-LR-About: BIOS, Boot, and Upstart
+w03-170302-14-LR-About: BIOS, Boot, and Upstart
+w03-170302-14-LR-About: BIOS, Boot, and Upstart
+w03-170303-19-PS-About: Lab Week 03
+w03-170303-19-PS-About: Lab Week 03
+w03-170303-20-PS-About: Lab Week 03
+w03-170303-20-PS-About: Lab Week 03
+w03-170303-21-PS-About: Lab Week 03
+
+w04-170310-14-PS-About: Lab Week 04
+w04-170310-15-PS-About: Lab Week 04
+w04-170310-15-PS-About: Lab Week 04
+w04-170310-16-PS-About: Lab Week 04
