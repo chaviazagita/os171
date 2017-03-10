@@ -41,4 +41,3 @@ w03-170303-21-PS-About: Lab Week 03
 w04-170310-14-PS-About: Lab Week 04
 w04-170310-15-PS-About: Lab Week 04
 w04-170310-15-PS-About: Lab Week 04
-w04-170310-16-PS-About: Lab Week 04
