@@ -41,3 +41,12 @@ w03-170303-21-PS-About: Lab Week 03
 w04-170310-14-PS-About: Lab Week 04
 w04-170310-15-PS-About: Lab Week 04
 w04-170310-15-PS-About: Lab Week 04
+
+w05-170314-13-LR-About: Memory
+w05-170314-13-LR-About: Memory
+w05-170314-14-LR-About: Memory
+w05-170314-14-LR-About: Memory
+w05-170324-12-PS-About: Lab Week 05
+w05-170324-12-PS-About: Lab Week 05
+w05-170325-13-PS-About: Lab Week 05
+w05-170325-13-PS-About: Lab Week 05
