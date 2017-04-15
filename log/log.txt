@@ -50,3 +50,7 @@ w05-170324-12-PS-About: Lab Week 05
 w05-170324-12-PS-About: Lab Week 05
 w05-170325-13-PS-About: Lab Week 05
 w05-170325-13-PS-About: Lab Week 05
+
+w06-170415-09-PS-About: Lab Week 06
+w06-170415-10-PS-About: Lab Week 06
+w06-170415-10-PS-About: Lab Week 06
