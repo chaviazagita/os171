@@ -54,3 +54,12 @@ w05-170325-13-PS-About: Lab Week 05
 w06-170415-09-PS-About: Lab Week 06
 w06-170415-10-PS-About: Lab Week 06
 w06-170415-10-PS-About: Lab Week 06
+
+w07-170418-13-LR-About: Synchronization
+w07-170418-13-LR-About: Synchronization
+w07-170418-14-LR-About: Synchronization
+w07-170418-14-LR-About: Synchronization
+w07-170422-12-PS-About: Lab Week 07
+w07-170422-12-PS-About: Lab Week 07
+w07-170422-13-PS-About: Lab Week 07
+w07-170422-13-PS-About: Lab Week 07
