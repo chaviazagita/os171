@@ -63,3 +63,13 @@ w07-170422-12-PS-About: Lab Week 07
 w07-170422-12-PS-About: Lab Week 07
 w07-170422-13-PS-About: Lab Week 07
 w07-170422-13-PS-About: Lab Week 07
+
+w08-170425-13-LR-About: Socket
+w08-170425-13-LR-About: Socket
+w08-170425-14-LR-About: Socket
+w08-170425-14-LR-About: Socket
+w07-170428-13-PS-About: Lab Week 08
+w07-170428-13-PS-About: Lab Week 08
+w07-170428-14-PS-About: Lab Week 08
+w07-170429-11-PS-About: Lab Week 08
+w07-170429-12-PS-About: Lab Week 08
